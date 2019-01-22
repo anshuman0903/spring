@@ -8,6 +8,7 @@ String s="spring";
 System.out.println(s.length());
 System.out.println(s.trim());
 		System.out.println();
+		System.out.println(s.length());
 	}
 
 }
